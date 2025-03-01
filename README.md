@@ -24,9 +24,7 @@ CelebAHairMask-HQ can be used to **train and evaluate algorithms of hair segment
 
 * [downloading link](https://huggingface.co/datasets/cpuimage/CelebAHairMask-HQ)
 
-**This repository has not received any explicit cooperation or donations from third parties since it was released, a few years have passed and to be honest I'm very disappointed, nevertheless I've taken the time to improve the quality of the data, there are enough resources to make it better of course, but no surprises, the V1 PLUS will be the final version.
-
-**
+**This repository has not received any explicit cooperation or donations from third parties since it was released, a few years have passed and to be honest I'm very disappointed, nevertheless I've taken the time to improve the quality of the data, there are enough resources to make it better of course, but no surprises, the V1 PLUS will be the final version.**
 
 - 💬 Any paid technical service or solution consulting
   - 📫 Reach me on mail:
