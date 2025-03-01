@@ -15,28 +15,40 @@ CelebAHairMask-HQ can be used to **train and evaluate algorithms of hair segment
 ![image](./sample.jpg)
 
 ## Sample Mask
+
 ![image](./detail.jpg)
 
 ## CelebAHairMask-HQ Dataset Downloads
-### Version 1.0, early released on 10/02/2020
-* Baidu Drive: [downloading link](https://pan.baidu.com/s/1Fi14BsYNQMwSN6dQk1uEwg) Extraction code:  9677
 
-**Due to insufficient computing resources, the V1.0  version of this dataset is not good enough.I will update the new one later.**
+### Version 1.0 PLUS, released on 03/01/2025
+
+* [downloading link](https://huggingface.co/datasets/cpuimage/CelebAHairMask-HQ)
+
+**This repository has not received any explicit cooperation or donations from third parties since it was released, a few years have passed and to be honest I'm very disappointed, nevertheless I've taken the time to improve the quality of the data, there are enough resources to make it better of course, but no surprises, the V1 PLUS will be the final version.
+
+**
+
+- 💬 Any paid technical service or solution consulting
+  - 📫 Reach me on mail:
+    - gaozhihan@vip.qq.com
 
 ## Related Works
+
 * **CelebA** dataset:
   Ziwei Liu, Ping Luo, Xiaogang Wang and Xiaoou Tang, "Deep Learning Face Attributes in the Wild", in IEEE International Conference on Computer Vision (ICCV), 2015 
 
 * **CelebA-HQ** was collected from CelebA and further post-processed by the following paper :
   Karras et. al, "Progressive Growing of GANs for Improved Quality, Stability, and Variation", in Internation Conference on Reoresentation Learning (ICLR), 2018
-  
+
 * **CelebAMask-HQ** dataset: 
   Lee, Cheng-Han and Liu, Ziwei and Wu, Lingyun and Luo, Ping, "MaskGAN: Towards Diverse and Interactive Facial Image Manipulation", in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
 
 ## Dataset Agreement
+
 * The CelebAHairMask-HQ dataset is available for **non-commercial research purposes** only.
 * You agree **not to** reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 * You agree **not to** further copy, publish or distribute any portion of the CelebAHairMask-HQ dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 
 ## License and Citation
+
 The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
