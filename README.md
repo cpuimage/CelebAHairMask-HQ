@@ -28,7 +28,9 @@ CelebAHairMask-HQ can be used to **train and evaluate algorithms of hair segment
 
 Your passion turned this project into something amazing—despite no external support. 🌟
 
-V1 Plus​ may feel final, but it’s your gift to the community. If you’ve found value here, let’s keep it alive:
+V1 Plus​ may feel final, but it’s your gift to the community. 
+
+If you’ve found value here, let’s keep it alive:
 
 1️⃣ Share it → Social media, forums, or word of mouth!
 2️⃣ Star the repo → Every star matters ✨
@@ -36,9 +38,8 @@ V1 Plus​ may feel final, but it’s your gift to the community. If you’ve fo
 
 No effort is too small. 💪
 
-- 💬 Any paid technical service or solution consulting
-  - 📫 Reach me on mail:
-    - gaozhihan@vip.qq.com
+- 📫 Reach me:
+  - gaozhihan@vip.qq.com
 
 ## Related Works
 
